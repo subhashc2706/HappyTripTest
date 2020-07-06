@@ -1,0 +1,369 @@
+12:51:03.773 [main] DEBUG data.ExcelData - Execution Started
+12:51:08.022 [main] INFO  data.ExcelData - Maximizing the window
+12:51:12.202 [main] INFO  data.ExcelData - adding the credentials
+12:51:13.643 [main] INFO  data.ExcelData - Clicking on schedule flight
+12:51:16.245 [main] DEBUG data.ExcelData - Execution Started
+12:51:18.793 [main] INFO  data.ExcelData - Maximizing the window
+12:51:22.391 [main] INFO  data.ExcelData - adding the credentials
+12:51:24.105 [main] INFO  data.ExcelData - Clicking on schedule flight
+12:51:26.521 [main] DEBUG data.ExcelData - Execution Started
+12:51:29.058 [main] INFO  data.ExcelData - Maximizing the window
+12:51:32.935 [main] INFO  data.ExcelData - adding the credentials
+12:51:34.282 [main] INFO  data.ExcelData - Clicking on schedule flight
+12:51:40.674 [main] DEBUG data.ExcelData - Execution Started
+12:51:43.339 [main] INFO  data.ExcelData - Maximizing the window
+12:51:46.064 [main] DEBUG data.ExcelData - Execution Started
+17:32:48.189 [main] INFO  testcases.AddFlightDetails - entering as admin
+17:32:58.069 [main] INFO  testcases.AddFlightDetails - Selecting the flight from dropdown
+17:32:59.071 [main] INFO  testcases.AddFlightDetails - selecting the route
+17:32:59.586 [main] INFO  testcases.AddFlightDetails - adding the distance 
+17:32:59.876 [main] INFO  testcases.AddFlightDetails - selecting the departure date
+17:33:00.531 [main] INFO  testcases.AddFlightDetails - selecting the departure time
+17:33:00.928 [main] INFO  testcases.AddFlightDetails - selecting the arrival date
+17:33:01.324 [main] INFO  testcases.AddFlightDetails - selecting the arrival time
+17:33:01.691 [main] INFO  testcases.AddFlightDetails - adding the cost of economy
+17:33:01.890 [main] INFO  testcases.AddFlightDetails - finally adding the flight
+17:58:15.858 [main] INFO  testcases.schedule_flight - entering as admin
+17:58:26.573 [main] INFO  testcases.schedule_flight - Choosing the flight
+17:58:26.831 [main] INFO  testcases.schedule_flight - Selecting by index of flight
+17:58:28.334 [main] INFO  testcases.arrivalCalendarClick - entering as admin
+17:58:37.159 [main] INFO  testcases.arrivalCalendarClick - Checking for clicking on arrival calendar
+17:58:38.606 [main] INFO  testcases.CostOfClass - entering as admin
+17:58:47.366 [main] INFO  testcases.CostOfClass - Checking for the block of cost of cost  
+17:58:52.757 [main] INFO  testcases.ArrivalTimeClick - entering as admin
+17:59:01.391 [main] INFO  testcases.ArrivalTimeClick - Checking for click on departure time
+17:59:06.944 [main] INFO  testcases.route - entering as admin
+17:59:15.532 [main] INFO  testcases.route - Choosing the route
+17:59:15.707 [main] INFO  testcases.route - selecting the route
+17:59:16.515 [main] INFO  testcases.route - closing the webpage
+17:59:16.836 [main] INFO  testcases.DepartureTimeClick - entering as admin
+17:59:25.481 [main] INFO  testcases.DepartureTimeClick - Clicking on the departure time
+17:59:25.644 [main] INFO  testcases.DepartureTimeClick - Checking the status
+17:59:25.940 [main] INFO  testcases.AddFlightDetails - entering as admin
+17:59:34.358 [main] INFO  testcases.AddFlightDetails - Selecting the flight from dropdown
+17:59:35.008 [main] INFO  testcases.AddFlightDetails - selecting the route
+17:59:35.594 [main] INFO  testcases.AddFlightDetails - adding the distance 
+17:59:35.799 [main] INFO  testcases.AddFlightDetails - selecting the departure date
+17:59:36.375 [main] INFO  testcases.AddFlightDetails - selecting the departure time
+17:59:36.729 [main] INFO  testcases.AddFlightDetails - selecting the arrival date
+17:59:37.079 [main] INFO  testcases.AddFlightDetails - selecting the arrival time
+17:59:37.429 [main] INFO  testcases.AddFlightDetails - adding the cost of economy
+17:59:37.603 [main] INFO  testcases.AddFlightDetails - finally adding the flight
+17:59:38.529 [main] INFO  testcases.departureCalendarSelect - entering as admin
+17:59:46.599 [main] INFO  testcases.departureCalendarSelect - Clicking on departure calendar
+17:59:47.825 [main] DEBUG data.ExcelData - Execution Started
+17:59:50.370 [main] INFO  data.ExcelData - Maximizing the window
+17:59:54.372 [main] INFO  data.ExcelData - adding the credentials
+17:59:55.652 [main] INFO  data.ExcelData - Clicking on schedule flight
+17:59:56.241 [main] INFO  testcases.depatureCalendarClick - entering as admin
+18:00:05.519 [main] INFO  testcases.depatureCalendarClick - Clicking on Departure Calendar
+18:00:05.725 [main] INFO  testcases.depatureCalendarClick - Testing the input case
+18:00:09.236 [main] INFO  testcases.ArrivalCalendarSelect - entering as admin
+18:00:19.251 [main] INFO  testcases.ArrivalCalendarSelect - Checking for selecting the Arrival date
+20:56:08.716 [main] INFO  testcases.route - entering as admin
+20:56:21.623 [main] INFO  testcases.route - Choosing the route
+20:56:21.897 [main] INFO  testcases.route - selecting the route
+20:56:22.769 [main] INFO  testcases.route - closing the webpage
+22:59:08.805 [main] INFO  testcases.route - entering as admin
+22:59:19.727 [main] INFO  testcases.route - Choosing the route
+22:59:19.889 [main] INFO  testcases.route - selecting the route
+22:59:20.675 [main] INFO  testcases.route - closing the webpage
+23:16:45.437 [main] INFO  testcases.route - entering as admin
+23:18:21.376 [main] INFO  testcases.route - entering as admin
+23:20:20.733 [main] INFO  testcases.route - entering as admin
+23:20:30.191 [main] INFO  testcases.route - Choosing the route
+23:20:30.330 [main] INFO  testcases.route - selecting the route
+23:20:31.116 [main] INFO  testcases.route - closing the webpage
+23:34:01.676 [main] INFO  testcases.route - entering as admin
+23:34:11.752 [main] INFO  testcases.route - Choosing the route
+23:34:11.881 [main] INFO  testcases.route - selecting the route
+23:34:12.608 [main] INFO  testcases.route - closing the webpage
+23:34:12.817 [main] INFO  testcases.schedule_flight - entering as admin
+23:34:21.107 [main] INFO  testcases.schedule_flight - Choosing the flight
+23:34:21.360 [main] INFO  testcases.schedule_flight - Selecting by index of flight
+23:58:12.367 [main] INFO  testcases.route - entering as admin
+23:58:22.825 [main] INFO  testcases.route - Choosing the route
+23:58:22.995 [main] INFO  testcases.route - selecting the route
+23:58:23.804 [main] INFO  testcases.route - closing the webpage
+23:58:24.064 [main] INFO  testcases.AddFlightDetails - entering as admin
+23:58:31.960 [main] INFO  testcases.AddFlightDetails - Selecting the flight from dropdown
+23:58:32.670 [main] INFO  testcases.AddFlightDetails - selecting the route
+23:58:33.163 [main] INFO  testcases.AddFlightDetails - adding the distance 
+23:58:33.359 [main] INFO  testcases.AddFlightDetails - selecting the departure date
+23:58:33.849 [main] INFO  testcases.AddFlightDetails - selecting the departure time
+23:58:34.130 [main] INFO  testcases.AddFlightDetails - selecting the arrival date
+23:58:34.403 [main] INFO  testcases.AddFlightDetails - selecting the arrival time
+23:58:34.671 [main] INFO  testcases.AddFlightDetails - adding the cost of economy
+23:58:34.820 [main] INFO  testcases.AddFlightDetails - finally adding the flight
+23:58:35.822 [main] INFO  testcases.schedule_flight - entering as admin
+23:58:43.875 [main] INFO  testcases.schedule_flight - Choosing the flight
+23:58:44.097 [main] INFO  testcases.schedule_flight - Selecting by index of flight
+23:58:46.312 [main] INFO  testcases.depatureCalendarClick - entering as admin
+23:58:54.727 [main] INFO  testcases.depatureCalendarClick - Clicking on Departure Calendar
+23:58:54.889 [main] INFO  testcases.depatureCalendarClick - Testing the input case
+23:58:55.730 [main] INFO  testcases.DepartureTimeClick - entering as admin
+23:59:04.454 [main] INFO  testcases.DepartureTimeClick - Clicking on the departure time
+23:59:04.607 [main] INFO  testcases.DepartureTimeClick - Checking the status
+23:59:05.278 [main] INFO  testcases.departureCalendarSelect - entering as admin
+23:59:14.905 [main] INFO  testcases.departureCalendarSelect - Clicking on departure calendar
+23:59:15.620 [main] INFO  testcases.ArrivalTimeClick - entering as admin
+23:59:23.733 [main] INFO  testcases.ArrivalTimeClick - Checking for click on departure time
+23:59:29.267 [main] INFO  testcases.ArrivalCalendarSelect - entering as admin
+23:59:37.616 [main] INFO  testcases.ArrivalCalendarSelect - Checking for selecting the Arrival date
+23:59:40.339 [main] INFO  testcases.arrivalCalendarClick - entering as admin
+23:59:47.954 [main] INFO  testcases.arrivalCalendarClick - Checking for clicking on arrival calendar
+23:59:48.842 [main] INFO  testcases.CostOfClass - entering as admin
+23:59:56.410 [main] INFO  testcases.CostOfClass - Checking for the block of cost of cost  
+00:10:46.598 [main] DEBUG data.ExcelData - Execution Started
+00:11:55.534 [main] DEBUG data.ExcelData - Execution Started
+00:11:59.180 [main] INFO  data.ExcelData - Maximizing the window
+00:12:02.563 [main] INFO  data.ExcelData - adding the credentials
+00:12:03.585 [main] INFO  data.ExcelData - Clicking on schedule flight
+00:13:12.992 [main] DEBUG data.ExcelData - Execution Started
+00:13:16.676 [main] INFO  data.ExcelData - Maximizing the window
+00:13:20.746 [main] INFO  data.ExcelData - adding the credentials
+00:13:22.240 [main] INFO  data.ExcelData - Clicking on schedule flight
+00:16:17.449 [main] DEBUG data.ExcelData - Execution Started
+00:16:21.072 [main] INFO  data.ExcelData - Maximizing the window
+00:16:24.622 [main] INFO  data.ExcelData - adding the credentials
+00:16:26.007 [main] INFO  data.ExcelData - Clicking on schedule flight
+01:41:10.989 [main] INFO  testcases.route - entering as admin
+01:41:20.735 [main] INFO  testcases.route - Choosing the route
+01:41:20.877 [main] INFO  testcases.route - selecting the route
+01:41:21.568 [main] INFO  testcases.route - closing the webpage
+01:41:21.828 [main] INFO  testcases.AddFlightDetails - entering as admin
+01:41:30.850 [main] INFO  testcases.AddFlightDetails - Selecting the flight from dropdown
+01:41:31.731 [main] INFO  testcases.AddFlightDetails - selecting the route
+01:41:32.038 [main] INFO  testcases.AddFlightDetails - adding the distance 
+01:41:32.236 [main] INFO  testcases.AddFlightDetails - selecting the departure date
+01:41:32.767 [main] INFO  testcases.AddFlightDetails - selecting the departure time
+01:41:33.085 [main] INFO  testcases.AddFlightDetails - selecting the arrival date
+01:41:33.344 [main] INFO  testcases.AddFlightDetails - selecting the arrival time
+01:41:33.620 [main] INFO  testcases.AddFlightDetails - adding the cost of economy
+01:41:33.778 [main] INFO  testcases.AddFlightDetails - finally adding the flight
+01:41:34.852 [main] INFO  testcases.schedule_flight - entering as admin
+01:41:43.519 [main] INFO  testcases.schedule_flight - Choosing the flight
+01:41:43.753 [main] INFO  testcases.schedule_flight - Selecting by index of flight
+01:41:45.019 [main] INFO  testcases.depatureCalendarClick - entering as admin
+01:41:53.226 [main] INFO  testcases.depatureCalendarClick - Clicking on Departure Calendar
+01:41:53.390 [main] INFO  testcases.depatureCalendarClick - Testing the input case
+01:41:54.312 [main] INFO  testcases.DepartureTimeClick - entering as admin
+01:42:03.056 [main] INFO  testcases.DepartureTimeClick - Clicking on the departure time
+01:42:03.202 [main] INFO  testcases.DepartureTimeClick - Checking the status
+01:42:03.681 [main] INFO  testcases.departureCalendarSelect - entering as admin
+01:42:12.384 [main] INFO  testcases.departureCalendarSelect - Clicking on departure calendar
+01:42:13.426 [main] INFO  testcases.ArrivalTimeClick - entering as admin
+01:42:22.426 [main] INFO  testcases.ArrivalTimeClick - Checking for click on departure time
+01:42:30.099 [main] INFO  testcases.ArrivalCalendarSelect - entering as admin
+01:42:37.680 [main] INFO  testcases.ArrivalCalendarSelect - Checking for selecting the Arrival date
+01:42:40.231 [main] INFO  testcases.arrivalCalendarClick - entering as admin
+01:42:48.508 [main] INFO  testcases.arrivalCalendarClick - Checking for clicking on arrival calendar
+01:42:49.695 [main] INFO  testcases.CostOfClass - entering as admin
+01:42:58.087 [main] INFO  testcases.CostOfClass - Checking for the block of cost of cost  
+11:54:14.458 [main] INFO  testcases.AddFlightDetails - entering as admin
+11:54:37.027 [main] DEBUG data.ExcelData - Execution Started
+11:54:42.059 [main] INFO  data.ExcelData - Maximizing the window
+11:54:48.072 [main] INFO  data.ExcelData - adding the credentials
+11:54:48.861 [main] INFO  data.ExcelData - Clicking on schedule flight
+11:54:49.368 [main] INFO  testcases.arrivalCalendarClick - entering as admin
+11:54:49.393 [main] INFO  testcases.AddFlightDetails - entering as admin
+11:58:26.266 [main] INFO  testcases.route - entering as admin
+11:58:26.363 [main] INFO  testcases.AddFlightDetails - entering as admin
+11:58:26.380 [main] INFO  testcases.schedule_flight - entering as admin
+11:58:26.393 [main] INFO  testcases.depatureCalendarClick - entering as admin
+11:58:26.405 [main] INFO  testcases.DepartureTimeClick - entering as admin
+11:58:26.419 [main] INFO  testcases.departureCalendarSelect - entering as admin
+11:58:26.435 [main] INFO  testcases.ArrivalTimeClick - entering as admin
+11:58:26.448 [main] INFO  testcases.ArrivalCalendarSelect - entering as admin
+11:58:26.459 [main] INFO  testcases.arrivalCalendarClick - entering as admin
+11:58:26.471 [main] INFO  testcases.CostOfClass - entering as admin
+11:58:26.613 [main] DEBUG data.ExcelData - Execution Started
+11:58:30.502 [main] INFO  data.ExcelData - Maximizing the window
+11:58:33.364 [main] INFO  data.ExcelData - adding the credentials
+11:58:34.188 [main] INFO  data.ExcelData - Clicking on schedule flight
+11:58:34.681 [main] INFO  testcases.arrivalCalendarClick - entering as admin
+11:58:34.726 [main] INFO  testcases.AddFlightDetails - entering as admin
+12:02:50.820 [main] INFO  testcases.route - entering as admin
+12:02:50.891 [main] INFO  testcases.AddFlightDetails - entering as admin
+12:02:50.909 [main] INFO  testcases.schedule_flight - entering as admin
+12:02:50.923 [main] INFO  testcases.depatureCalendarClick - entering as admin
+12:02:50.938 [main] INFO  testcases.DepartureTimeClick - entering as admin
+12:02:50.952 [main] INFO  testcases.departureCalendarSelect - entering as admin
+12:02:50.967 [main] INFO  testcases.ArrivalTimeClick - entering as admin
+12:02:50.979 [main] INFO  testcases.ArrivalCalendarSelect - entering as admin
+12:02:50.994 [main] INFO  testcases.arrivalCalendarClick - entering as admin
+12:02:51.006 [main] INFO  testcases.CostOfClass - entering as admin
+12:16:42.071 [main] INFO  testcases.route - entering as admin
+12:16:42.165 [main] INFO  testcases.AddFlightDetails - entering as admin
+12:16:42.184 [main] INFO  testcases.schedule_flight - entering as admin
+12:16:42.200 [main] INFO  testcases.depatureCalendarClick - entering as admin
+12:16:42.217 [main] INFO  testcases.DepartureTimeClick - entering as admin
+12:16:42.232 [main] INFO  testcases.departureCalendarSelect - entering as admin
+12:16:42.246 [main] INFO  testcases.ArrivalTimeClick - entering as admin
+12:16:42.263 [main] INFO  testcases.ArrivalCalendarSelect - entering as admin
+12:16:42.278 [main] INFO  testcases.arrivalCalendarClick - entering as admin
+12:16:42.295 [main] INFO  testcases.CostOfClass - entering as admin
+12:18:20.521 [main] INFO  testcases.route - entering as admin
+12:18:38.928 [main] INFO  testcases.route - Choosing the route
+12:18:39.056 [main] INFO  testcases.route - selecting the route
+12:18:39.544 [main] INFO  testcases.route - closing the webpage
+12:18:39.677 [main] INFO  testcases.AddFlightDetails - entering as admin
+12:18:47.272 [main] INFO  testcases.AddFlightDetails - Selecting the flight from dropdown
+12:18:47.872 [main] INFO  testcases.AddFlightDetails - selecting the route
+12:18:48.282 [main] INFO  testcases.AddFlightDetails - adding the distance 
+12:18:48.419 [main] INFO  testcases.AddFlightDetails - selecting the departure date
+12:18:48.643 [main] INFO  testcases.AddFlightDetails - selecting the departure time
+12:18:48.902 [main] INFO  testcases.AddFlightDetails - selecting the arrival date
+12:18:49.187 [main] INFO  testcases.AddFlightDetails - selecting the arrival time
+12:18:49.478 [main] INFO  testcases.AddFlightDetails - adding the cost of economy
+12:18:49.629 [main] INFO  testcases.AddFlightDetails - finally adding the flight
+12:18:50.517 [main] INFO  testcases.schedule_flight - entering as admin
+12:18:58.109 [main] INFO  testcases.schedule_flight - Choosing the flight
+12:18:58.327 [main] INFO  testcases.schedule_flight - Selecting by index of flight
+12:18:59.010 [main] INFO  testcases.depatureCalendarClick - entering as admin
+12:19:06.170 [main] INFO  testcases.depatureCalendarClick - Clicking on Departure Calendar
+12:19:06.294 [main] INFO  testcases.depatureCalendarClick - Testing the input case
+12:19:06.862 [main] INFO  testcases.DepartureTimeClick - entering as admin
+12:19:15.203 [main] INFO  testcases.DepartureTimeClick - Clicking on the departure time
+12:19:15.356 [main] INFO  testcases.DepartureTimeClick - Checking the status
+12:19:15.589 [main] INFO  testcases.departureCalendarSelect - entering as admin
+12:19:24.368 [main] INFO  testcases.departureCalendarSelect - Clicking on departure calendar
+12:19:24.881 [main] INFO  testcases.ArrivalTimeClick - entering as admin
+12:19:35.558 [main] INFO  testcases.ArrivalTimeClick - Checking for click on departure time
+12:19:41.120 [main] INFO  testcases.ArrivalCalendarSelect - entering as admin
+12:19:52.158 [main] INFO  testcases.ArrivalCalendarSelect - Checking for selecting the Arrival date
+12:19:52.451 [main] INFO  testcases.arrivalCalendarClick - entering as admin
+12:20:02.545 [main] INFO  testcases.arrivalCalendarClick - Checking for clicking on arrival calendar
+12:20:03.441 [main] INFO  testcases.CostOfClass - entering as admin
+12:20:11.780 [main] INFO  testcases.CostOfClass - Checking for the block of cost of cost  
+12:28:20.907 [main] INFO  testcases.route - entering as admin
+12:28:30.965 [main] INFO  testcases.route - Choosing the route
+12:28:31.097 [main] INFO  testcases.route - selecting the route
+12:28:31.553 [main] INFO  testcases.route - closing the webpage
+12:28:31.749 [main] INFO  testcases.AddFlightDetails - entering as admin
+12:28:49.951 [main] INFO  testcases.AddFlightDetails - Selecting the flight from dropdown
+12:28:50.748 [main] INFO  testcases.AddFlightDetails - selecting the route
+12:28:51.399 [main] INFO  testcases.AddFlightDetails - adding the distance 
+12:28:51.685 [main] INFO  testcases.AddFlightDetails - selecting the departure date
+12:28:52.138 [main] INFO  testcases.AddFlightDetails - selecting the departure time
+12:28:52.313 [main] INFO  testcases.AddFlightDetails - selecting the arrival date
+12:28:52.680 [main] INFO  testcases.AddFlightDetails - selecting the arrival time
+12:28:53.097 [main] INFO  testcases.AddFlightDetails - adding the cost of economy
+12:28:53.338 [main] INFO  testcases.AddFlightDetails - finally adding the flight
+12:28:54.102 [main] INFO  testcases.schedule_flight - entering as admin
+12:29:01.101 [main] INFO  testcases.schedule_flight - Choosing the flight
+12:29:01.299 [main] INFO  testcases.schedule_flight - Selecting by index of flight
+12:29:02.273 [main] INFO  testcases.depatureCalendarClick - entering as admin
+12:29:09.851 [main] INFO  testcases.depatureCalendarClick - Clicking on Departure Calendar
+12:29:10.154 [main] INFO  testcases.depatureCalendarClick - Testing the input case
+12:29:10.784 [main] INFO  testcases.DepartureTimeClick - entering as admin
+12:29:18.979 [main] INFO  testcases.DepartureTimeClick - Clicking on the departure time
+12:29:19.088 [main] INFO  testcases.DepartureTimeClick - Checking the status
+12:29:19.261 [main] INFO  testcases.departureCalendarSelect - entering as admin
+12:29:28.241 [main] INFO  testcases.departureCalendarSelect - Clicking on departure calendar
+12:29:28.732 [main] INFO  testcases.ArrivalTimeClick - entering as admin
+12:29:36.386 [main] INFO  testcases.ArrivalTimeClick - Checking for click on departure time
+12:29:41.904 [main] INFO  testcases.ArrivalCalendarSelect - entering as admin
+12:29:50.122 [main] INFO  testcases.ArrivalCalendarSelect - Checking for selecting the Arrival date
+12:29:50.515 [main] INFO  testcases.arrivalCalendarClick - entering as admin
+12:29:58.555 [main] INFO  testcases.arrivalCalendarClick - Checking for clicking on arrival calendar
+12:29:59.600 [main] INFO  testcases.CostOfClass - entering as admin
+12:30:08.222 [main] INFO  testcases.CostOfClass - Checking for the block of cost of cost  
+12:30:13.311 [main] DEBUG data.ExcelData - Execution Started
+12:30:15.394 [main] INFO  data.ExcelData - Maximizing the window
+12:30:18.613 [main] INFO  data.ExcelData - adding the credentials
+12:30:19.151 [main] INFO  data.ExcelData - Clicking on schedule flight
+12:30:19.502 [main] INFO  testcases.arrivalCalendarClick - entering as admin
+12:30:28.126 [main] INFO  testcases.arrivalCalendarClick - Checking for clicking on arrival calendar
+12:30:28.671 [main] INFO  testcases.AddFlightDetails - entering as admin
+12:30:38.362 [main] INFO  testcases.AddFlightDetails - Selecting the flight from dropdown
+12:30:38.630 [main] INFO  testcases.AddFlightDetails - selecting the route
+12:30:38.820 [main] INFO  testcases.AddFlightDetails - adding the distance 
+12:30:38.900 [main] INFO  testcases.AddFlightDetails - selecting the departure date
+12:30:39.025 [main] INFO  testcases.AddFlightDetails - selecting the departure time
+12:30:39.135 [main] INFO  testcases.AddFlightDetails - selecting the arrival date
+12:30:39.295 [main] INFO  testcases.AddFlightDetails - selecting the arrival time
+12:30:39.425 [main] INFO  testcases.AddFlightDetails - adding the cost of economy
+12:30:39.513 [main] INFO  testcases.AddFlightDetails - finally adding the flight
+12:43:34.121 [main] INFO  testcases.route - entering as admin
+12:43:42.515 [main] INFO  testcases.route - Choosing the route
+12:43:42.617 [main] INFO  testcases.route - selecting the route
+12:43:42.988 [main] INFO  testcases.route - closing the webpage
+12:43:43.100 [main] INFO  testcases.AddFlightDetails - entering as admin
+12:43:51.369 [main] INFO  testcases.AddFlightDetails - Selecting the flight from dropdown
+12:43:51.629 [main] INFO  testcases.AddFlightDetails - selecting the route
+12:43:51.805 [main] INFO  testcases.AddFlightDetails - adding the distance 
+12:43:51.886 [main] INFO  testcases.AddFlightDetails - selecting the departure date
+12:43:52.035 [main] INFO  testcases.AddFlightDetails - selecting the departure time
+12:43:52.188 [main] INFO  testcases.AddFlightDetails - selecting the arrival date
+12:43:52.357 [main] INFO  testcases.AddFlightDetails - selecting the arrival time
+12:43:52.467 [main] INFO  testcases.AddFlightDetails - adding the cost of economy
+12:43:52.541 [main] INFO  testcases.AddFlightDetails - finally adding the flight
+12:43:53.024 [main] INFO  testcases.schedule_flight - entering as admin
+12:44:01.113 [main] INFO  testcases.schedule_flight - Choosing the flight
+12:44:01.220 [main] INFO  testcases.schedule_flight - Selecting by index of flight
+12:44:01.803 [main] INFO  testcases.depatureCalendarClick - entering as admin
+12:44:08.718 [main] INFO  testcases.depatureCalendarClick - Clicking on Departure Calendar
+12:44:08.804 [main] INFO  testcases.depatureCalendarClick - Testing the input case
+12:44:09.216 [main] INFO  testcases.DepartureTimeClick - entering as admin
+12:44:16.780 [main] INFO  testcases.DepartureTimeClick - Clicking on the departure time
+12:44:16.868 [main] INFO  testcases.DepartureTimeClick - Checking the status
+12:44:17.015 [main] INFO  testcases.departureCalendarSelect - entering as admin
+12:44:23.640 [main] INFO  testcases.departureCalendarSelect - Clicking on departure calendar
+12:44:23.896 [main] INFO  testcases.ArrivalTimeClick - entering as admin
+12:44:31.272 [main] INFO  testcases.ArrivalTimeClick - Checking for click on departure time
+12:44:36.458 [main] INFO  testcases.ArrivalCalendarSelect - entering as admin
+12:44:43.967 [main] INFO  testcases.ArrivalCalendarSelect - Checking for selecting the Arrival date
+12:44:44.162 [main] INFO  testcases.arrivalCalendarClick - entering as admin
+12:44:51.791 [main] INFO  testcases.arrivalCalendarClick - Checking for clicking on arrival calendar
+12:44:52.209 [main] INFO  testcases.CostOfClass - entering as admin
+12:45:00.732 [main] INFO  testcases.CostOfClass - Checking for the block of cost of cost  
+17:34:45.446 [main] INFO  com.sa.happytrip.pages.arrCalClick - entering as admin
+17:35:01.352 [main] INFO  com.sa.happytrip.pages.arrCalClick - Checking for clicking on arrival calendar
+17:35:02.575 [main] DEBUG com.sa.happytrip.data.ExcelData - Execution Started
+17:35:05.191 [main] INFO  com.sa.happytrip.data.ExcelData - Maximizing the window
+17:35:14.267 [main] INFO  com.sa.happytrip.data.ExcelData - adding the credentials
+17:35:19.798 [main] INFO  com.sa.happytrip.data.ExcelData - Clicking on schedule flight
+17:35:19.899 [main] INFO  com.sa.happytrip.pages.route - entering as admin
+17:35:28.046 [main] INFO  com.sa.happytrip.pages.route - Choosing the route
+17:35:28.164 [main] INFO  com.sa.happytrip.pages.route - selecting the route
+17:35:28.732 [main] INFO  com.sa.happytrip.pages.route - closing the webpage
+17:35:28.921 [main] INFO  com.sa.happytrip.pages.AddFlight - entering as admin
+17:35:39.309 [main] INFO  com.sa.happytrip.pages.AddFlight - Selecting the flight from dropdown
+17:35:39.844 [main] INFO  com.sa.happytrip.pages.AddFlight - selecting the route
+17:35:40.351 [main] INFO  com.sa.happytrip.pages.AddFlight - adding the distance 
+17:35:40.883 [main] INFO  com.sa.happytrip.pages.AddFlight - selecting the departure date
+17:35:41.121 [main] INFO  com.sa.happytrip.pages.AddFlight - selecting the departure time
+17:35:41.302 [main] INFO  com.sa.happytrip.pages.AddFlight - selecting the arrival date
+17:35:41.558 [main] INFO  com.sa.happytrip.pages.AddFlight - selecting the arrival time
+17:35:41.793 [main] INFO  com.sa.happytrip.pages.AddFlight - adding the cost of economy
+17:35:41.966 [main] INFO  com.sa.happytrip.pages.AddFlight - finally adding the flight
+17:35:42.828 [main] INFO  com.sa.happytrip.pages.choose_flight - entering as admin
+17:35:53.567 [main] INFO  com.sa.happytrip.pages.choose_flight - Choosing the flight
+17:35:53.803 [main] INFO  com.sa.happytrip.pages.choose_flight - Selecting by index of flight
+17:35:54.723 [main] INFO  com.sa.happytrip.pages.depCalClick - entering as admin
+17:36:03.226 [main] INFO  com.sa.happytrip.pages.depCalClick - Clicking on Departure Calendar
+17:36:03.393 [main] INFO  com.sa.happytrip.pages.depCalClick - Testing the input case
+17:36:04.049 [main] INFO  com.sa.happytrip.pages.DepartureTimeClick - entering as admin
+17:36:12.188 [main] INFO  com.sa.happytrip.pages.DepartureTimeClick - Clicking on the departure time
+17:36:12.305 [main] INFO  com.sa.happytrip.pages.DepartureTimeClick - Checking the status
+17:36:12.483 [main] INFO  com.sa.happytrip.pages.depCalSelect - entering as admin
+17:36:20.886 [main] INFO  com.sa.happytrip.pages.depCalSelect - Clicking on departure calendar
+17:36:21.356 [main] INFO  com.sa.happytrip.pages.ArrivalTimeClick - entering as admin
+17:36:29.314 [main] INFO  com.sa.happytrip.pages.ArrivalTimeClick - Checking for click on departure time
+17:36:34.918 [main] INFO  com.sa.happytrip.pages.ArrCalSelect - entering as admin
+17:36:42.913 [main] INFO  com.sa.happytrip.pages.ArrCalSelect - Checking for selecting the Arrival date
+17:36:43.425 [main] INFO  com.sa.happytrip.pages.arrCalClick - entering as admin
+17:36:51.268 [main] INFO  com.sa.happytrip.pages.arrCalClick - Checking for clicking on arrival calendar
+17:36:52.409 [main] INFO  com.sa.happytrip.pages.CostOfClassEconomy - entering as admin
+17:37:00.970 [main] INFO  com.sa.happytrip.pages.CostOfClassEconomy - Checking for the block of cost of cost  
+17:37:05.697 [main] INFO  com.sa.happytrip.pages.AddFlight - entering as admin
+17:37:14.919 [main] INFO  com.sa.happytrip.pages.AddFlight - Selecting the flight from dropdown
+17:37:15.428 [main] INFO  com.sa.happytrip.pages.AddFlight - selecting the route
+17:37:15.669 [main] INFO  com.sa.happytrip.pages.AddFlight - adding the distance 
+17:37:15.771 [main] INFO  com.sa.happytrip.pages.AddFlight - selecting the departure date
+17:37:15.979 [main] INFO  com.sa.happytrip.pages.AddFlight - selecting the departure time
+17:37:16.167 [main] INFO  com.sa.happytrip.pages.AddFlight - selecting the arrival date
+17:37:16.455 [main] INFO  com.sa.happytrip.pages.AddFlight - selecting the arrival time
+17:37:16.736 [main] INFO  com.sa.happytrip.pages.AddFlight - adding the cost of economy
+17:37:16.892 [main] INFO  com.sa.happytrip.pages.AddFlight - finally adding the flight
